@@ -18,7 +18,7 @@
  🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
  
  🛠️ Skills and Technologies:<br>
-     - **Front-End:** HTML5, CSS3, JavaScript (ES6+), Redux<br>
+     - **Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
      - **Styling Libraries:** CSS, Styled Components<br>
 
  💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React... [here](https://github.com/Thejaswini-2178)**
