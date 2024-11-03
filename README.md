@@ -8,6 +8,7 @@
 <br/>
 
 <div align="left">
+    
  👋Hii.. Iam Thejaswini
   
  🔭 I’m intresed in:<br> 
@@ -24,9 +25,8 @@
  💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React... [here](https://github.com/Thejaswini-2178)**
 
   🚀Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
-    -React template typically provides a pre-configured setup for building web applications using the React library.
   
-  👇Check out more of my work in the pinned repositories below 👇<br>
+  👇Check out more of my work in the pinned repositories below👇<br>
   🔗 **GitHub Link:** https://github.com/Thejaswini-2178
 
  </div>
