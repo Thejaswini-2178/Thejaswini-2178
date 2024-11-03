@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Thejaswini-2178" target="_blank">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzK4fUygGS3lJT9dW6VwuLKOHYXNdVfbr-ZQ&s" width="90px"; height="50px" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzK4fUygGS3lJT9dW6VwuLKOHYXNdVfbr-ZQ&s" width="100px"; height="35px" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
