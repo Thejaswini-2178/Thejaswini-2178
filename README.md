@@ -26,7 +26,7 @@
   🚀Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
     -React template typically provides a pre-configured setup for building web applications using the React library.
   
-  👇Check out more of my work in the pinned repositories below 👇
+  👇Check out more of my work in the pinned repositories below 👇<br>
   🔗 **GitHub Link:** https://github.com/Thejaswini-2178
 
  </div>
