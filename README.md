@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thejaswini!;" />
 </h1>
 
-<h3 align="center" style="color:red">A Front-End Developer | React Enthusiast</h3>
+<h3 align="center" style="color:red;">A Front-End Developer | React Enthusiast</h3>
+
 
 <br/>
 
@@ -12,17 +13,17 @@
  👋Hii.. Iam Thejaswini
   
  🔭 I’m intresed in:<br> 
- -🎯 **Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
- -🎯**Responsive Design** – Crafting applications that look great on any device.<br>
- -🎯**JavaScript & React Ecosystem** – Diving deep into React, and the latest tools in the React ecosystem.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯 **Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Responsive Design** – Crafting applications that look great on any device.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**JavaScript & React Ecosystem** – Diving deep into React, and the latest tools in the React ecosystem.<br>
  
  🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
  
  🛠️ Skills and Technologies:<br>
-     - **Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
-     - **Styling Libraries:** CSS, Styled Components<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Styling Libraries:** CSS, Styled Components<br>
 
- 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React... [here](https://github.com/Thejaswini-2178)**
+ 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React....🧐[Here](https://github.com/Thejaswini-2178)**
 
   🚀Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
   
@@ -55,7 +56,7 @@
 <hr/>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Shoot+Me+a+Message+:📩;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Shoot+Me+a+Message+📩;" />
 </div>
 
 <br/>
