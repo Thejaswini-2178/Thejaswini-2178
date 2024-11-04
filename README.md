@@ -9,7 +9,7 @@
 
 <div align="left">
     
- 👋Hii....Iam Thejaswini
+ 👋 Hii....Iam Thejaswini
   
  🔭 I’m intresed in:<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
 
- 💞I'm looking to collaborate on......developer roles.
+ 💞 I'm looking to collaborate on......developer roles.
  
  🛠️ Skills and Technologies:<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
@@ -26,9 +26,9 @@
 
  💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React....🧐[Here](https://github.com/Thejaswini-2178)**
 
- 🚀Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
+ 🚀 Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
   
- 👇Check out more of my work in the pinned repositories below👇<br>
+ 👇 Check out more of my work in the pinned repositories below👇<br>
  🔗 **GitHub Link:** https://github.com/Thejaswini-2178
  </div>
  
