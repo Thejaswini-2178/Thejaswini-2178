@@ -30,7 +30,6 @@
   
   👇Check out more of my work in the pinned repositories below👇<br>
   🔗 **GitHub Link:** https://github.com/Thejaswini-2178
-
  </div>
  
 <div align="center"> 
