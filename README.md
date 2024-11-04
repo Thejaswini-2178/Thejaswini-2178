@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thejaswini!;" />
 </h1>
@@ -13,11 +12,13 @@
  👋Hii.. Iam Thejaswini
   
  🔭 I’m intresed in:<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯 **Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Responsive Design** – Crafting applications that look great on any device.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**JavaScript & React Ecosystem** – Diving deep into React, and the latest tools in the React ecosystem.<br>
  
  🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
+
+ 💞I'm looking to collaborate on......developer roles.
  
  🛠️ Skills and Technologies:<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
@@ -45,7 +46,6 @@
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
