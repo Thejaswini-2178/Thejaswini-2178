@@ -9,7 +9,7 @@
 
 <div align="left">
     
- 👋Hii.. Iam Thejaswini
+ 👋Hii...Iam Thejaswini
   
  🔭 I’m intresed in:<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
