@@ -26,7 +26,7 @@
 
  💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React....🧐[Here](https://github.com/Thejaswini-2178)**
 
- 🚀 Projects: **WeatherApp,TO-DO APP,Note App,Simple Quize.......React-Templates**<br>
+ 🚀 Projects: **WeatherApp, TO-DO APP, Note App, Simple Quize.......React-Templates**<br>
   
  👇 Check out more of my work in the pinned repositories below👇<br>
  🔗 **GitHub Link:** https://github.com/Thejaswini-2178
