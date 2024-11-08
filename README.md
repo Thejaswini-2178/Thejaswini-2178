@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
 
- 💞 I'm looking to collaborate on......developer roles.
+ 💞 I'm looking to collaborate on.......developer roles.
  
  🛠️ Skills and Technologies:<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
