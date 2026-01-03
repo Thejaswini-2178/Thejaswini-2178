@@ -33,9 +33,12 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:thejaswini.yss@gmail.com?subject=Hello&body=Hi%20there!">
+  <!-- <a href="mailto:thejaswini.yss@gmail.com?subject=Hello&body=Hi%20there!">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a> -->
+    <a href="mailto:thejaswini.yss@gmail.com?subject=Hello%20Thejaswini&body=Hi%20Thejaswini,%0A%0AI%20would%20like%20to%20connect%20with%20you.">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
   <a href="https://www.linkedin.com/in/yellumgudla-thejaswini-a92627251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
